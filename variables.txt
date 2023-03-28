@@ -1,0 +1,198 @@
+CLONES
+PLAYER DEATH
+CAMERA X
+CAMERA Y
+LSX
+EDIT
+HUE #2
+TICK
+HUE
+☁ CLOUD6
+☁ CLOUD7
+☁ CLOUD8
+☁ CLOUD9
+GUI SPRITE #
+LEVEL #
+APPLES
+SHAKE
+nx2
+ny2
+PLAYER X
+PLAYER Y
+SFX
+GAME STATE
+SPAWN IDX
+PLAYER INV
+IN-GAME MENU
+PLAYER SY
+PLAYER SX
+KEY - UP
+CAMERA SHIFT DY
+OBJ*
+PLAYER NO SLOW
+PLAYER STATE
+PLAYER DIR
+TIME
+acc2
+variation2
+PLAYER LSY
+REPLAY IDX
+MASTER ASK
+KEY - LEFT
+KEY - RIGHT
+LIVES
+KEY - DIR
+KEY - DOWN
+PLAYER WALL
+☁ CLOUD1
+☁ CLOUD2
+☁ CLOUD3
+☁ CLOUD4
+☁ CLOUD5
+☁ Run Mode
+☁ Run Time
+Cam Dis to Screen
+Cam X
+Cam Y
+Cam Z
+Cam XRot
+Cam YRot
+Cam ZRot
+Clone Count
+Temporary Ground Present?
+Player HP
+Ground Check
+GC Counter
+0.5 ^ Speed
+0.8 ^ Speed
+0.8 vel multiplier
+0.95 ^ Speed
+0.98 ^ Speed
+- Cam Bob
+Hyper-Reflexes Coefficient
+Cam YRotVel
+Cam XRotVel
+Cam SinXRot
+Cam CosXRot
+Cam SinYRot
+Cam CosYRot
+Cam SinZRot
+Cam CosZRot
+Music Underwater Transition
+Level
+Chicken Mode Unlocked
+Message Timestamp
+Mouse Control
+Stars
+Water Check
+Damage Hitbox Check
+Speedrun Timer
+Time Counter
+FPS Counter
+FPS
+Lag Reduction
+Speed
+Carrying Sword?
+Weapon
+Chicken Mode
+Hyper-Reflexes Unlocked
+Door z
+Door x
+Door y
+Pause for Pecking
+Lag Compensation
+Intro Played
+Fork Detector
+screen x
+screen y
+screen z
+Previous Throw
+Eggs Unlocked
+Target Burst Sound Pan
+Katana Strike Tracker
+PreWater
+HUD Weapon Counter
+Confirmation Screen Visible
+Sound Effects Volume
+Menu Page
+Binding Key
+Music Volume
+Menu - Mouse Over Return?
+Menu Scroll
+Menu Scroll Limit
+Column Items
+selected
+rochade.möglich.weiß?
+rochade.möglich.schwarz?
+umwandlung
+last
+am Zug
+große rochade
+kleine.rochade
+zug
+rochade.test
+black.EXIT
+White.EXIT
+snapshot
+Schach?
+F.wBauer
+F.wLäufer
+F.wSpringer
+F.wTurm
+F.wDame
+F.sBauer
+F.sDame
+F.sLäufer
+F.sSpringer
+F.sTurm
+game-mode
+modus
+drehung
+umw
+white.PLAYER
+black.PLAYER
+sound
+settings
+black_time
+white_time
+difficulity
+music
+fps
+MAP
+MASK
+MAP R
+order
+LEVEL SCORES
+PARTICLE
+WALL
+MAP DATA
+OBJ
+Level Code
+GROUP
+PSZ
+DEBUG
+BOSS
+COLLECT
+DIGITS
+FONT W
+Valuminous Engine
+Ground Hitbox
+Damage Hitbox
+Temporary Ground Hitbox
+Targets
+Damage Sources
+Key Bindings
+Level Completion Statuses
+Distances
+ACTIVE IDX
+BLACK BOX
+x
+y
+Data
+mark
+move
+prob
+Documentation
+Sicherungskopie-Data
+prob2
+Snapshots
