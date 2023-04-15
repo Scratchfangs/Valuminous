@@ -1,6 +1,0 @@
-3D Engine.sprite3
-Graphics.sprite3
-Intro.sprite3
-Menu.sprite3
-Screen_SFX.sprite3
-Thumbnail_Credits.sprite3
