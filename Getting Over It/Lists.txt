@@ -1,0 +1,15 @@
+Background.sprite3
+Cloud List.sprite3
+Comment.sprite3
+Cursor.sprite3
+Hammer.sprite3
+Head.sprite3
+High Score.sprite3
+Level.sprite3
+Music.sprite3
+Narrator.sprite3
+Player.sprite3
+Splash.sprite3
+Timer.sprite3
+Water.sprite3
+limbs.sprite3
